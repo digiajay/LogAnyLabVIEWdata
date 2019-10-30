@@ -138,7 +138,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5E05815D-436D-4071-8AE7-1AC312543835}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LVdataToTableData.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/LVdataToTableData.lvlibp</Property>
